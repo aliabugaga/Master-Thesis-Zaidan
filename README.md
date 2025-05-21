@@ -1,1 +1,1 @@
-# Master-Thesis-Osnabr-ck-Plaza-
+# Master-Thesis-Osnabrück-Plaza-
