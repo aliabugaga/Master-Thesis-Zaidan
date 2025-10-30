@@ -11,3 +11,5 @@ This repository contains code used for the Master Thesis of Alina Zaidan. It is 
 Environments" for the real-world data.
 
 "VR data fixation analysis.ipynb" contains the code used for the results of sections 3.1.2 "Fixation Proportions Across Object Types", 3.1.3 "Fixation Durations of Different Types" and 3.1.4 "Transition Probabilities Across Fixation Types" for the VR data from [Combining EEG and Eye-Tracking in Virtual Reality - Obtaining Fixation-Onset ERPs and ERSPs](https://osf.io/trfjw/).
+
+"PCA&correlations&clustering.ipynb" contains the code used for results of sections 3.3 "Correlational and Principal Component Analysis" and 3.4 "Clustering".
