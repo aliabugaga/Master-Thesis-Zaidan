@@ -1,7 +1,0 @@
-Participant,Recording,First_Fixation_ID,Second_Fixation_ID,Third_Fixation_ID,AOI_Sequence
-09,1,538,539,540,"['eye', 'nose', 'mouth']"
-09,1,553,554,555,"['eye', 'nose', 'mouth']"
-11,2,7206,7207,7208,"['eye', 'nose', 'mouth']"
-21,1,1500,1501,1502,"['eye', 'nose', 'mouth']"
-23,1,4138,4139,4140,"['eye', 'nose', 'mouth']"
-28,1,4183,4184,4185,"['eye', 'nose', 'mouth']"
